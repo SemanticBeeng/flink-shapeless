@@ -146,3 +146,6 @@ project/boot/
 project/plugins/project/
 .cache
 .lib/
+.bsp/
+project/.boot/
+project/.sbtboot/
